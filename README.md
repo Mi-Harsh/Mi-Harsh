@@ -11,7 +11,7 @@ I'm a final-year Computer Engineering student at PCCOER, passionate about **AI, 
 ### 🚀 Projects
 Here are some of the projects I’ve worked on:
 - **[Housing Price Prediction](https://github.com/Mi-Harsh/bostonhousepricing)**: End-to-end ML project using XGBoost, deployed on AWS with a Flask web app.
-- **[Fake News Detection](https://github.com/Harsh-Palande/fake-news-detection)**: Built a model using NLTK, TF-IDF, and Porter Stemmer to detect fake news.
+- **[Fake News Detection](https://github.com/Mi-Harsh/ML-Mini-Projects)**: Built a model using NLTK, TF-IDF, and Porter Stemmer to detect fake news.
 - **[Object Detection App](https://github.com/Harsh-Palande/object-detection-app)**: Created an Android application using TensorFlow Lite and Google ML Kit for image-based object detection.
 - **Automated Student Placement Dashboard**: A web-based tool to automate job applications and manage resumes for students (link coming soon).
 - **Drug Inventory and Supply Chain Tracking System**: A system using Hyperledger Fabric and Machine Learning to streamline drug distribution with real-time tracking, prediction models, and blockchain security (team project, work in progress).

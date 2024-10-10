@@ -28,7 +28,7 @@ I’m eager to dive deeper into:
 - Learning how **AI** can transform industries through **smart automation** and **intelligent systems**.
 
 ### ⚡ Fun Fact
-I find the intersection of technology and creativity fascinating – from building AI models to sketching out an Iron Man suit's full design, I enjoy merging these two worlds!
+I’m a huge Iron Man fan and fascinated by how technology in AI and robotics could be used to bring futuristic ideas to life!
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/harsh-palande-65963a22b/)
